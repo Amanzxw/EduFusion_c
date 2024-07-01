@@ -8,6 +8,26 @@
 # testing
 /coverage
 
+# .gitignore
+.env
+
+# Example .env file
+
+# Database Configuration
+DB_HOST=localhost
+DB_USER=myusername
+DB_PASS=mypassword
+DB_NAME=mydatabase
+
+# API Keys
+API_KEY=your_api_key_here
+
+# Ignore .env file
+.env
+
+#secret
+.env
+
 # production
 /build
 
